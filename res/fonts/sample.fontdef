@@ -1,0 +1,27 @@
+FreeSans
+{
+	// Now this one I agree with ;)
+	// A Star Wars font :)
+	type 		truetype
+	source 		FreeSans.ttf
+	size 		16
+	resolution 	96
+}
+
+Orbitron
+{
+	// Now this one I agree with ;)
+	// A Star Wars font :)
+	type 		truetype
+	source 		orbitron-medium.ttf
+	size 		16
+	resolution 	96
+}
+
+Console
+{
+	type 		truetype
+	source 		FreeSans.ttf
+	size 		32
+	resolution 	55
+}
